@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.chouseinkechagia.com](www.chouseinkechagia.com)
+- 👨‍💻 All of my projects are available at [www.chouseinkechagia.com](https://www.chouseinkechagia.com)
 
 - 📫 How to reach me **chouseinkechagia@outlook.com**
 
